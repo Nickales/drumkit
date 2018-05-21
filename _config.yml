@@ -15,8 +15,8 @@ defaults:
   values:
     layout: post
     permalink: "/posts/:title/"
-    files:
-    keycode:
+    files: 
+    keycode: 
 - scope:
     path: ''
     type: pages
