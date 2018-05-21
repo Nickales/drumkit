@@ -2,7 +2,7 @@
 title: Clap
 date: 2018-05-21 22:22:00 Z
 file: "/uploads/clap.wav"
-keycode: 67
+keycode: 71
 ---
 
 sound of clap
